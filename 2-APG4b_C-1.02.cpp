@@ -20,7 +20,6 @@ int main() {
 
 /*
 エラーメッセージ
-ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 ./Main.cpp:5:11: warning: missing terminating " character
    cout << "いつも << 252 << endl;
            ^
@@ -43,8 +42,6 @@ In file included from /usr/include/c++/5/istream:39:0,
                  from /usr/include/c++/5/complex:45,
                  from /usr/include/c++/5/ccomplex:38,
                  
-ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-
 */
 
 
