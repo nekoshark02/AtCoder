@@ -18,8 +18,8 @@ int main() {
   cout << "AtCoderくん"　<< endl
 }
 
-/*
-エラーメッセージ
+//
+/*エラーメッセージ
 ./Main.cpp:5:11: warning: missing terminating " character
    cout << "いつも << 252 << endl;
            ^
@@ -40,9 +40,7 @@ int main() {
 In file included from /usr/include/c++/5/istream:39:0,
                  from /usr/include/c++/5/sstream:38,
                  from /usr/include/c++/5/complex:45,
-                 from /usr/include/c++/5/ccomplex:38,
-                 
-*/
+                 from /usr/include/c++/5/ccomplex:38, */
 
 
 /*エラーメッセージの見方は説明文にも書いてありますが、大雑把に説明
