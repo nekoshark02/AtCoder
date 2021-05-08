@@ -70,3 +70,4 @@ int main() {
 }
 
 //ACになりましたか?
+//引用元　https://atcoder.jp/contests/apg4b/tasks/APG4b_cu
