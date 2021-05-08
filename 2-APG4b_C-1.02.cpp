@@ -9,17 +9,17 @@ AtCoderくん
 しかし、書いたプログラムを実行してみるとエラーが発生しました。
 A君が書いたプログラムのエラーを修正し、正しく動作するようにしてください。*/
 
-//A君が書いたプログラム
+/*A君が書いたプログラム(なぜかエラーメッセージに干渉するので、コメントアウトします。少々見えにくいですが)
 #include <bits/stdc++.h>
 using namespace std;
 
 int main() {
   cout << "いつも << 252 << endl;
   cout << "AtCoderくん"　<< endl
-}
+}*/
 
-//
 /*エラーメッセージ
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 ./Main.cpp:5:11: warning: missing terminating " character
    cout << "いつも << 252 << endl;
            ^
@@ -40,7 +40,9 @@ int main() {
 In file included from /usr/include/c++/5/istream:39:0,
                  from /usr/include/c++/5/sstream:38,
                  from /usr/include/c++/5/complex:45,
-                 from /usr/include/c++/5/ccomplex:38, */
+                 from /usr/include/c++/5/ccomplex:38,
+ ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+ */
 
 
 /*エラーメッセージの見方は説明文にも書いてありますが、大雑把に説明
